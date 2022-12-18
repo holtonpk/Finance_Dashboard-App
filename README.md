@@ -8,10 +8,10 @@ All user data is randomly generated, chart rendering was done with the help of [
 
 ### [Dashboard ](#dashboard)
 
-- **[Cash Flow Chart](#chart)**: an interactive chart allowing users to accurately view account history
-- **[Send Money](#sendMoney)**: allows users to send/request money from a list of contacts
-- **[Transaction Table](#table)**: gives users the ability to managing/view transactions
-- **[Quick Send](#quickSend)**: easily send money with the quick send feature
+- **[Cash Flow Chart](#Cash-Flow-Chart)**: an interactive chart allowing users to accurately view account history
+- **[Send Money](#send-Money)**: allows users to send/request money from a list of contacts
+- **[Transaction Table](#Transaction-Table)**: gives users the ability to managing/view transactions
+- **[Quick Send](#quick-Send)**: easily send money with the quick send feature
 
 ## Demo
 
