@@ -11,13 +11,22 @@ All user data is randomly generated, chart rendering was done with the help of [
 - **[Cash Flow Chart](#chart)**: an interactive chart allowing users to accurately view account history
 - **[Send Money](#sendMoney)**: allows users to send/request money from a list of contacts
 - **[Transaction Table](#table)**: gives users the ability to managing/view transactions
-- **[quick send](#quickSend)**: easily send money with the quick send feature
+- **[Quick Send](#quickSend)**: easily send money with the quick send feature
 
 ## Demo
 
-### Chart
+### Cash Flow Chart
 
 ![chart](demo/chart-demo.gif)
+
+### Quick Send
+
 ![quickSend](demo/quickSend-demo.gif)
-![chart](demo/chart-demo.gif)
+
+### Send Money
+
+![chart](demo/send-demo.gif)
+
+### Transaction Table
+
 ![table](demo/table-demo.gif)
