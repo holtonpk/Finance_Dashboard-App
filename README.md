@@ -29,4 +29,4 @@ All user data is randomly generated, chart rendering was done with the help of [
 
 ### Transaction Table
 
-![table](demo/table-demo1.gif)
+![table](demo/table-demo.gif)
