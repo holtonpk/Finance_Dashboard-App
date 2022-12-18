@@ -4,9 +4,19 @@ ON Point is a full-stack, single-page stock fiance managing application built py
 
 All user data is randomly generated, chart rendering was done with the help of [ Chart.js](https://www.chartjs.org/).
 
-## Features
+## Technologies
 
-### [Dashboard ](#dashboard)
+- Backend:
+
+  - Python flask
+  - Pocket Base
+
+- Frontend:
+  - React / Next
+  - Chart js
+  - Tailwind
+
+## Features
 
 - **[Cash Flow Chart](#Cash-Flow-Chart)**: An interactive chart allowing users to accurately view account history
 - **[Send Money](#send-Money)**: Allows users to send/request money from a list of contacts
@@ -38,15 +48,3 @@ All user data is randomly generated, chart rendering was done with the help of [
 ![table](demo/table-demo.gif)
 
 ###### Selectable rows to easily delete tractions from database. Sort transaction by any header ascending or descending. Calendar date range selector allows user to select a start and end date for showing transactions
-
-## Technologies
-
-- Backend:
-
-  - Python flask
-  - Pocket Base
-
-- Frontend:
-  - React / Next
-  - Chart js
-  - Tailwind
