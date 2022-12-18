@@ -2,7 +2,7 @@
 
 ON Point is a full-stack, single-page stock fiance managing application built python and Next.js. Users can manage their bank accounts with easy. Mr. Hood's design was inspired by Muhammad Izza's Financial Management Dashboard.
 
-All user data is randomly generated, chart rendering was done with the help of (https://www.chartjs.org/ Chart.js).
+All user data is randomly generated, chart rendering was done with the help of [ Chart.js](https://www.chartjs.org/).
 
 ## Features
 
