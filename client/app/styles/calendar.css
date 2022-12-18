@@ -1,0 +1,17 @@
+.selectedDay{
+    background-color: #2F66EE;
+    color:#FEFEFE !important;
+  
+  }
+  .selectedRange{
+    background-color: rgb(47, 102, 238, .3);
+    color:#FEFEFE !important;
+  }
+
+
+
+  .today:hover{
+    color:#FEFEFE !important;
+    
+
+  }
