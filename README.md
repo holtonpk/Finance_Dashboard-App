@@ -18,3 +18,6 @@ All user data is randomly generated, chart rendering was done with the help of [
 ### Chart
 
 ![chart](demo/chart-demo.gif)
+![quickSend](demo/quickSend-demo.gif)
+![chart](demo/chart-demo.gif)
+![table](demo/table-demo.gif)
