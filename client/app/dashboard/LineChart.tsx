@@ -36,6 +36,7 @@ const LineChart = () => {
     await fetch("http://localhost:5000/data/transactions/1y")
       .then((res) => res.json())
       .then((data) => {
+        console.log("dd===>", JSON.stringify(data));
         setData(data);
         nbrElmSpdDecChar(
           data["accountTotal"],

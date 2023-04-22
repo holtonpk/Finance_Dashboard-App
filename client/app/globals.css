@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .b-r {
-  border: 1px solid red;
+  border: 1px solid red !important;
 }
 .b-b {
   border: 1px solid blue;

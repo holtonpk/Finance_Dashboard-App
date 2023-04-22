@@ -12,7 +12,7 @@ export default function DashboardPage() {
     <div className="flex flex-row w-screen ">
       <UnlockMore />
       <Navbar />
-      <div className="w-[3/5] ">
+      <div className="w-full">
         <div className="flex flex-row gap-1">
           <div className="p-8 w-[80%] gap-4 flex flex-col ">
             <FinancialRecord />
